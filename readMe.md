@@ -114,7 +114,7 @@ To get started with EstateElegance, follow these steps:
 **SignUp Page**
 ![SignUp Page](https://github.com/Emran-Y/mock/blob/main/Screenshots/signUp.jpg)
 **Recent Items**
-![Recent Items](https://github.com/Emran-Y/mock/blob/main/Screenshots/signUp.jpg)
+![Recent Items](https://github.com/Emran-Y/Estate-Elegance/blob/main/Screenshots/recent.jpg)
 **Search**
 ![Search](https://github.com/Emran-Y/mock/blob/main/Screenshots/search.jpg)
 **Home Page**
